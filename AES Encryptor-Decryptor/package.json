@@ -11,6 +11,6 @@
   "author": "Tanmay Vij",
   "license": "ISC",
   "dependencies": {
-    "prompt": "^1.0.0"
+    "prompt": "^1.2.0"
   }
 }
